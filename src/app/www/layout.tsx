@@ -1,6 +1,6 @@
 import "@/styles/globals.css";
 import { Viewport } from "next";
-import { Providers } from "./providers";
+import { Providers } from "@/components/providers";
 import InimiNavbar from "@/components/navbar";
 
 export const viewport: Viewport = {
